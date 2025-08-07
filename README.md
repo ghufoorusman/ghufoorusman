@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Usman Ghufoor</h1>
+<h1 align="center"> Usman Ghufoor</h1>
 
 <h3 align="center"><i>CS @ GIKI '28 | Backend | Under-the-Hood </i></h3>
 
@@ -18,5 +18,4 @@ console.log(`${usman.name} is ready to dive deep! 🏊‍♂️`);
 
 🧩 Currently exploring: ExpressJS, MongoDB, and low-level system design
 
-📫 Let's Connect
-GitHub: @ghufoorusman
+
